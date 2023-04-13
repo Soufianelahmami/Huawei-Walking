@@ -34,14 +34,13 @@
 
 },
   "my_data":[
-  {"title":"title1 ser","desc":"description1 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title2 ser","desc":"description2 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title3 ser","desc":"description3 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title4 ser","desc":"description4 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title5 ser","desc":"description5 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title6 ser","desc":"description6 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title7 ser","desc":"description7 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title8 ser","desc":"description8 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"title":"how to use this app 1","desc":"Huawei, the global technology leader, has launched an innovative application called Huawei Walking. This app has revolutionized the way people exercise,","photo":"https://iili.io/HvuLYlI.webp"},
+  {"title":"helper mod 2","desc":"The leader in global technology, Huawei, has released an avant-garde program called Huawei Walking. The way people workout has been transformed by this software.","photo":"https://iili.io/HvuLhf2.jpg"},
+  {"title":"tips pack 3","desc":"making it easier and more enjoyable to track daily physical activity. In this article, we'll dive into the features of the Huawei Walking application, and why it's a must-have for fitness enthusiasts.","photo":"https://iili.io/HvuLaSt.jpg"},
+  {"title":"advance mod 4","desc":"making the monitoring of everyday physical activity simpler and more fun. In this post, we'll examine the Huawei Walking app's features and explain why fitness fans must have it.","photo":"https://iili.io/HvuL0Rn.jpg"},
+  {"title":"how to use this app 5","desc":"Firstly, the Huawei Walking app is compatible with Huawei smartphones and wearables, making it accessible to a wide range of users. The app uses advanced algorithms and machine learning to accurately track your steps,","photo":"https://iili.io/HvuLVV4.png"},
+  {"title":"advice pack 7","desc":"The Huawei Walking app can be used by a variety of people because it is compatible with Huawei smartphones and wearables. The application correctly tracks your steps using cutting-edge algorithms and machine learning.","photo":"https://iili.io/HvuL1Ns.jpg"},
+  {"title":"helper mod 8","desc":"distance, and calories burned. It also has an intuitive user interface, making it easy to understand and use.","photo":"https://iili.io/HvuLWil.jpg"}
 
    ]
  
